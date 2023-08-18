@@ -1954,6 +1954,10 @@ video {
   background-image: url('../img/sword-blog.jpg');
 }
 
+.bg-\[url\(\'\.\.\/img\/lakeside\.jpg\'\)\] {
+  background-image: url('../img/lakeside.jpg');
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
