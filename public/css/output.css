@@ -1930,32 +1930,16 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/public\/img\/Lakeside\.jpg\'\)\] {
-  background-image: url('../public/img/Lakeside.jpg');
-}
-
-.bg-\[url\(\'\.\.\/public\/img\/sword-blog\.jpg\'\)\] {
-  background-image: url('../public/img/sword-blog.jpg');
-}
-
-.bg-\[url\(\'public\/img\/hellena\.jpg\'\)\] {
-  background-image: url('public/img/hellena.jpg');
-}
-
 .bg-\[url\(\'\.\.\/img\/hellena\.jpg\'\)\] {
   background-image: url('../img/hellena.jpg');
 }
 
-.bg-\[url\(\'\.\.\/img\/Lakeside\.jpg\'\)\] {
-  background-image: url('../img/Lakeside.jpg');
+.bg-\[url\(\'\.\.\/img\/lakeside\.jpg\'\)\] {
+  background-image: url('../img/lakeside.jpg');
 }
 
 .bg-\[url\(\'\.\.\/img\/sword-blog\.jpg\'\)\] {
   background-image: url('../img/sword-blog.jpg');
-}
-
-.bg-\[url\(\'\.\.\/img\/lakeside\.jpg\'\)\] {
-  background-image: url('../img/lakeside.jpg');
 }
 
 .decoration-slice {
